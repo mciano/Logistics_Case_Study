@@ -28,6 +28,7 @@ Analyst Explanation: Sales has increased from 2017 to 2018 8 % on Furniture, 26 
 ### 2.  Return (# of order lines returned / total # of order lines) is particularly high or low for a given month in the past 2 years.  Can you tell what the drivers are for those outliers? 
 
 The challenge to making the Ratio of Return was to make the calculated field (# of order lines returned / total # of order lines).
+
 ![](/Resources/Images/ratio_calculated_field.png)
 
 ![](/Resources/Images/total_orders.png)
