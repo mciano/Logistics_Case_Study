@@ -23,7 +23,7 @@ After having the relationship established between all tabs, was possible to jump
 A horizontal bar chart was used to show the sales by Category and sub-category between the years 2017 and 2018. 
 ![](/Resources/Images/1_sales_cat_subcat.png)
 
-Analyst Explanation: Sales has increased from 2017 to 2018 in all Category and Sub-Category overall, Phones in Technology and Chairs in Furniture are the outliers. 
+Analyst Explanation: Sales has increased from 2017 to 2018 8 % on Furniture, 26 % on Office Supplies and 20% on Technoly Category, and Sub-Category Phones in Technology and Chairs in Furniture are the outliers. 
 
 ### 2.  Return (# of order lines returned / total # of order lines) is particularly high or low for a given month in the past 2 years.  Can you tell what the drivers are for those outliers? 
 
@@ -50,7 +50,6 @@ The KPI was based on Sales, showing a total of sales by Region, the filter was a
 
 If I had more time, I would have done more calculated fields to check the difference between one year to another, as well as check-in deep the Logistics Ship Mode by Shipped date, what was the weekly volume. 
 Perhaps if the dataset had more fields was possible to analyze the distance from Distribution center to the final Customer, make the cost per mile, and check opportunities for consolidations. 
-
 
 #
 
